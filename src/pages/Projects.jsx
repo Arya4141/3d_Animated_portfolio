@@ -48,7 +48,7 @@ const Projects = () => {
                   rel='noopener noreferrer'
                   className='font-semibold text-blue-600'
                 >
-                  Live Link
+                  GitHub Link
                 </Link>
                 <img
                   src={arrow}

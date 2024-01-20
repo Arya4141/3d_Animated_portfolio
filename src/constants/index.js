@@ -153,7 +153,7 @@ export const socialLinks = [
     {
         name: 'Contact',
         iconUrl: contact,
-        link: 'https://www.instagram.com/accounts/onetap/?next=%2F',
+        link: 'https://www.instagram.com/arya_agrxwl/',
     },
     {
         name: 'GitHub',
@@ -209,6 +209,6 @@ export const projects = [
         theme: 'btn-back-green',
         name: 'IMDB rating site',
         description: "IMDb rating site created that provides the rating of latest movies and web-series crafted with user-friendly design. Data is fetched through real-time API's and provides ",
-        link: 'https://github.com/Arya4141/Bike-Rental-System.git',
+        link: 'https://github.com/Arya4141/IMDB_rating_site',
     },
 ];
